@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This repo relates to my homepage: [https://dariusz.wieckiewicz.org](https://dariusz.wieckiewicz.org) and is inteded for Comments purpose in GitHub Issues format.
+This repo relates to my homepage in Polish [https://dariusz.wieckiewicz.org](https://dariusz.wieckiewicz.org) and English [https://dariusz.wieckiewicz.org/en](https://dariusz.wieckiewicz.org/en). It's intended for Comments purpose in GitHub Issues format using [utterance](https://github.com/utterance).
 
 ps. Some comments been imported into Issues from Disqus upon migration.
 
